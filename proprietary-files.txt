@@ -1,0 +1,46 @@
+# Camera
+vendor/lib64/camera/com.qti.actuator.cmi_sunny_ultra_dw9800.so
+vendor/lib64/camera/com.qti.eeprom.cmi_ofilm_s5k3t2_gt24p64.so
+vendor/lib64/camera/com.qti.eeprom.cmi_semco_ov08a10_m24c64.so
+vendor/lib64/camera/com.qti.eeprom.cmi_semco_ov08a10_m24c64x.so
+vendor/lib64/camera/com.qti.eeprom.cmi_semco_s5k2l7_m24c64x.so
+vendor/lib64/camera/com.qti.eeprom.cmi_semco_s5khmx_m24c128.so
+vendor/lib64/camera/com.qti.eeprom.cmi_semco_s5khmx_m24c128x.so
+vendor/lib64/camera/com.qti.eeprom.cmi_semco_s5khmx_m24c64.so
+vendor/lib64/camera/com.qti.eeprom.cmi_sunny_imx350_gt24p64b.so
+vendor/lib64/camera/com.qti.eeprom.cmi_sunny_s5k5e8yx_gt24p64.so
+vendor/lib64/camera/com.qti.eeprom.hawkeye_semco_ov48c_m24c64x.so
+vendor/lib64/camera/com.qti.sensor.cmi_s5k5e8yx_macro.so
+vendor/lib64/camera/com.qti.sensor.imx350_cmi.so
+vendor/lib64/camera/com.qti.sensor.ov08a10_cmi.so
+vendor/lib64/camera/com.qti.sensor.ov48c_hawkeye.so
+vendor/lib64/camera/com.qti.sensor.s5k2l7_cmi.so
+vendor/lib64/camera/com.qti.sensor.s5k3t2_cmi.so
+vendor/lib64/camera/com.qti.sensor.s5khmx_cmi.so
+vendor/lib64/camera/com.qti.sensor.s5khmx_wide_cmi.so
+vendor/lib64/camera/com.qti.sensormodule.cmi_ofilm_s5k3t2.bin
+vendor/lib64/camera/com.qti.sensormodule.cmi_semco_ov08a10_tele4x_v1.bin
+vendor/lib64/camera/com.qti.sensormodule.cmi_semco_s5k2l7_tele2x.bin
+vendor/lib64/camera/com.qti.sensormodule.cmi_semco_s5khmx_wide.bin
+vendor/lib64/camera/com.qti.sensormodule.cmi_semco_s5khmx_wide_v1.bin
+vendor/lib64/camera/com.qti.sensormodule.cmi_sunny_imx350_ultra_wide.bin
+vendor/lib64/camera/com.qti.sensormodule.hawkeye_semco_ov48c_wide.bin
+vendor/lib64/camera/com.qti.tuned.cmi_ofilm_s5k3t2.bin
+vendor/lib64/camera/com.qti.tuned.cmi_semco_ov08a10_tele4x.bin
+vendor/lib64/camera/com.qti.tuned.cmi_semco_s5k2l7_tele2x.bin
+vendor/lib64/camera/com.qti.tuned.cmi_semco_s5khmx_wide.bin
+vendor/lib64/camera/com.qti.tuned.cmi_sunny_imx350_ultra_wide.bin
+
+# Camera-configs
+vendor/etc/camera/CFR_para_T_4x_V03.bin
+vendor/etc/camera/CFR_para_UW_V03.bin
+vendor/etc/camera/com.xiaomi.dcal.wt.fake
+vendor/etc/camera/com.xiaomi.dcal.wt4x.fake
+vendor/etc/camera/multianchor.txt
+
+# Camera-firmware
+vendor/firmware/cmi_tele4x_ois.coeff
+vendor/firmware/cmi_tele4x_ois.mem
+vendor/firmware/cmi_tele4x_ois.prog
+vendor/firmware/cmi_wide_ois.coeff
+vendor/firmware/cmi_wide_ois.prog
